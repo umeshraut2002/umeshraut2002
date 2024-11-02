@@ -1,7 +1,7 @@
 ## Hi, I'm Umesh Raut! 👋
 
 - 🔭 I’m interested in web development, computer science, and technology.
-- 🌱 Currently learning web development, data structures, and algorithms.
+- 🌱 Currently learning AI web development, data structures, and algorithms.
 - 🤝 Looking to collaborate on open-source projects and web development.
 - 📫 How to reach me: 
   - Email: uraut6044@gmail.com
@@ -38,8 +38,6 @@
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<umeshraut2002>&layout=compact&theme=dark)
 
 
 
