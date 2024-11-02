@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @umeshraut2002
-- 👀 I’m interested in web development, computer science, technology, computer engineering 
-- 🌱 I’m currently learning web development data structure and algorithm 
-- 💞️ I’m looking to collaborate on open-source projects on web development
-- 📫  You can reach me via email at uraut6044@gmail.com or on Twitter at @umesh_raut13.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy listening musics and podcast in my free time.
-
 ## Hi, I'm Umesh Raut! 👋
 
 - 🔭 I’m interested in web development, computer science, and technology.
@@ -47,7 +39,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<umeshraut2002>&layout=compact&theme=dark)
 
 
 
