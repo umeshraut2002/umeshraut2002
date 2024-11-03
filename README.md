@@ -38,11 +38,12 @@
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+## 📊 GitHub Stats & Streaks
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeshraut2002&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshraut2002&theme=dark&hide_border=true)
-MY GITHUB STREAKS
 
+## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshraut2002&layout=compact&theme=dark&hide_border=true)
-TOP LANGUAGES 
 
 
 
