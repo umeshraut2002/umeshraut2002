@@ -3,28 +3,29 @@
 <h3 align="center">Cloud & DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Infrastructure;Terraform+%7C+Infrastructure+as+Code;Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD;Docker+%7C+Kubernetes+%7C+Amazon+EKS;Monitoring+%7C+Observability+%7C+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Infrastructure;Terraform+%7C+Infrastructure+as+Code;Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD;Docker+%7C+Kubernetes+%7C+Amazon+EKS;Monitoring+%7C+Observability+%7C+Reliability" alt="Typing SVG"/>
 </p>
 
+<!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umeshraut2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=umeshraut2002&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🎓 **Computer Science Graduate**
 - ☁️ Focused on **AWS Cloud Infrastructure**
-- ⚙️ Experienced in **CI/CD Pipeline Automation**
-- 🏗️ Infrastructure as Code using **Terraform**
-- 🐳 Containerization with **Docker**
+- ⚙️ Infrastructure as Code using **Terraform**
+- 🔄 CI/CD automation using **Jenkins, GitHub Actions, and GitLab CI/CD**
+- 🐳 Containerization using **Docker**
 - ☸️ Container orchestration using **Kubernetes and Amazon EKS**
-- 🔄 CI/CD tools: **Jenkins, GitHub Actions, GitLab CI/CD**
-- 📊 Monitoring with **Prometheus, Grafana, and Amazon CloudWatch**
-- 🔐 Familiar with **IAM, secrets management, encryption, and Trivy**
+- 📦 Kubernetes deployments using **Helm**
+- 🔐 Security practices including **IAM, secrets management, encryption, and Trivy**
+- 📊 Monitoring with **Prometheus, Grafana, CloudWatch, and Datadog**
 - 🐧 Linux administration and automation using **Bash and Python**
 - 🚀 Interested in cloud migration, cost optimization, and reliability engineering
 - 📍 **Bengaluru, Karnataka, India**
@@ -53,15 +54,15 @@
 ### ☁️ Cloud Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud platforms"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Platforms"/>
 </p>
 
-**AWS Services:** EC2, EKS, ECS, ECR, S3, VPC, IAM, RDS, DynamoDB, Route 53, CloudFront, CloudWatch, CloudTrail, Lambda, Auto Scaling, KMS, SQS, SNS, API Gateway.
+**AWS Services:** EC2, EKS, ECS, ECR, S3, VPC, IAM, RDS, DynamoDB, Route 53, CloudFront, CloudWatch, CloudTrail, Lambda, Auto Scaling, KMS, SQS, SNS, API Gateway, Systems Manager, Bedrock, SageMaker.
 
 ### ⚙️ DevOps & Infrastructure as Code
 
 <p>
-  <img src="https://skillicons.dev/icons?i=terraform,jenkins,docker,kubernetes,ansible,githubactions,git,github,gitlab,linux,bash" alt="DevOps technologies"/>
+  <img src="https://skillicons.dev/icons?i=terraform,jenkins,docker,kubernetes,ansible,githubactions,git,github,gitlab,linux,bash" alt="DevOps Tools"/>
 </p>
 
 - Terraform — Infrastructure provisioning and remote state management
@@ -88,7 +89,7 @@
 ### 📊 Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring tools"/>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring Tools"/>
 </p>
 
 - Prometheus and Grafana
@@ -100,7 +101,7 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Database technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases"/>
 </p>
 
 - Amazon RDS for MySQL
@@ -111,7 +112,7 @@
 ### 🌐 Web Servers & Operating Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,redhat,python,bash" alt="Systems and scripting"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,redhat,python,bash" alt="Systems and Scripting"/>
 </p>
 
 - Amazon Linux and Ubuntu
@@ -125,8 +126,8 @@
 
 ### 1. Production-Grade CI/CD Pipeline on AWS (Kubernetes)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,docker,kubernetes" alt="Project technologies"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,docker,kubernetes" alt="Project Technologies"/>
 </p>
 
 **Key components:**
@@ -134,36 +135,30 @@
 - Provision AWS infrastructure using Terraform.
 - Configure an S3 remote backend with DynamoDB state locking.
 - Automate application builds, testing, and packaging with Jenkins and Maven.
-- Integrate SonarQube quality gates.
+- Integrate SonarQube analysis and quality gates.
 - Manage versioned artifacts with Nexus Repository Manager.
-- Build Docker images and scan them with Trivy.
-- Push container images to Amazon ECR.
+- Build Docker images, scan them with Trivy, and publish images to Amazon ECR.
 - Deploy applications to Amazon EKS using Kubernetes manifests.
 - Configure Deployments, Services, ConfigMaps, Secrets, Ingress, and HPA.
 - Configure readiness and liveness probes, resource requests, and limits.
 - Integrate Amazon RDS for MySQL with Kubernetes workloads.
 - Monitor workloads using Prometheus and Grafana.
+- Configure autoscaling where required.
 
 <p align="center">
   <a href="https://github.com/umeshraut2002">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+    <img src="https://img.shields.io/badge/View%20GitHub%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repositories"/>
   </a>
 </p>
 
-> Replace the profile link above with the exact repository URL once you publish this project.
-
----
-
 ### 2. AWS Cloud Infrastructure & Migration
 
-**Key components:**
-
-- AWS infrastructure preparation and configuration.
-- VPC networking, security groups, IAM, and access controls.
-- Application migration support from on-premises infrastructure to AWS.
-- Support for a reported 50 TB MongoDB-to-Amazon-DocumentDB migration.
-- Application connectivity, data validation, and post-migration verification.
-- Resource utilization analysis, right-sizing, and cloud cost optimization.
+- Prepare and configure AWS infrastructure.
+- Configure VPC networking, security groups, IAM, and access controls.
+- Support application migration from on-premises infrastructure to AWS.
+- Support MongoDB-to-Amazon-DocumentDB migration activities.
+- Validate application connectivity and migrated data.
+- Analyze resource utilization, right-size resources, and support cloud cost optimization.
 
 ---
 
@@ -176,22 +171,28 @@
 
 ---
 
-## 🔥 GitHub Streak & Activity
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshraut2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umeshraut2002&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshraut2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+<!-- CONTRIBUTION GRAPH -->
+<h2 align="center">📈 GitHub Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umeshraut2002&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umeshraut2002&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+</p>
+
+---
+
+<!-- TROPHIES -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umeshraut2002&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ---
@@ -199,7 +200,7 @@
 ## 🎯 Core DevOps Practices
 
 - Infrastructure as Code and configuration management
-- Automated build, testing, and deployment workflows
+- Automated builds, testing, and deployments
 - Containerization and Kubernetes workload management
 - Code quality checks and vulnerability scanning
 - Cloud security, encryption, and secrets management
